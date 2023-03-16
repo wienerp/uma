@@ -1,0 +1,26 @@
+                                                            SIMPLE CALCULATOR
+<html>
+<head>
+<script langagust="javascript">
+fontion add (f1)
+f1.t3.value=sanplet f1+sanplet t3
+{
+fontion div (f1)
+f1.t3.value=sanplet f1-sanplet t3
+}
+fontion mul (f1)
+f1.t3.value=sanplet f1*sanplet t3
+{
+fontion dept (f1)
+f1.t3.value=sanplet f1/sanplet t3
+}
+<head>
+<body>
+<centar>
+progaram color="red"size=SCRIPT CALCULTOr
+on type of sanplet butten=add (f1)+butten
+on type of sanplet butten=div (f1)-butten
+on type of sanplet butten=mul (f1)*butten
+on type of sanplet butten=dept (f1)/butten
+<head>
+<html>
